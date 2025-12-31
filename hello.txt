@@ -1,4 +1,4 @@
-Hello Git
+Hello from Main Branch
 Learning Git is fun!
 I want to use git and be a master
 Git is a powerful tool!!!
