@@ -2,4 +2,7 @@ Hello Git
 Learning Git is fun!
 I want to use git and be a master
 Git is a powerful tool!!!
+Welcome to korea~~
+WOW I AM a GIT MASTER!!!!
+
 
