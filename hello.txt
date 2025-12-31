@@ -5,5 +5,7 @@ Git is a powerful tool!!!
 Welcome to korea~~
 WOW I AM a GIT MASTER!!!!
 this is the 7th line of the hello.txt master from main
+this is my experimental feature line 8
+Line 9: Main is moving even further ahead!
 
 
